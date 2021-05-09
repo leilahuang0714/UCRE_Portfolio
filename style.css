@@ -27,6 +27,7 @@ button {
   font-weight: bold;
   color: #7c7c7c;
   font-size: 18px;
+  background-color: transparent;
 }
 
 button.selected {

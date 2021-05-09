@@ -181,7 +181,7 @@ width: 45%;
   position: absolute;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   width: 500px;
-  height: 400px;
+  height: 370px;
   border: 10px solid #000;
   border-radius: 10px;
   background-color: #000;
@@ -198,6 +198,6 @@ width: 45%;
   width: 800px;
   position: absolute;
   right: -150px;
-  top: -5px;
+  top: -40px;
 }
 
